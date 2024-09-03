@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-<img width=100% src="./.github/assets/banner.png"/>
+<img width=100% src="./assets/banner.png"/>
 
 <div align='center'>
 
@@ -9,7 +9,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iggonicollas&theme=tokyonight&show_icons=true" /> 
   
   <img width="20%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggonicollas&theme=tokyonight&show_icons=true" /> 
-  
   
 </div>
 
